@@ -54,7 +54,7 @@ ld -m elf_i386 -o life_runner Life_Runner.o
 
 ## Screenshot
 
-  <img src="https://github.com/zeyadlotfy/Life-Runner/blob/main/screen_Game/screen1.png" alt="screen1" />
+  <img src="https://github.com/zeyadlotfy/Life-Runner/blob/main/screen_Game/screen1.png" align="center" alt="screen1" />
   <img src="https://github.com/zeyadlotfy/Life-Runner/blob/main/screen_Game/screen2.png" alt="screen1" />
   <img src="https://github.com/zeyadlotfy/Life-Runner/blob/main/screen_Game/screen3.png" alt="screen1" />
   <img src="https://github.com/zeyadlotfy/Life-Runner/blob/main/screen_Game/screen4.png" alt="screen1" />
