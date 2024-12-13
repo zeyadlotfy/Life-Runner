@@ -28,12 +28,6 @@ Navigate through challenging mazes, dodge enemies, and reach the endpoint to win
 3. Assemble the source code
 4. Run the executable
 
-### Compilation Example
-```bash
-# Example assembly command (adjust based on your assembler)
-nasm -f elf Life_Runner.asm
-ld -m elf_i386 -o life_runner Life_Runner.o
-```
 
 ## Controls
 - [Specify game controls]
