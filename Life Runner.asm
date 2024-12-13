@@ -89,7 +89,7 @@ oldcol db 37    ;old column of player
 youwin db 'congratulations you have saved your life $'   ;string to print the indicator of win
 intro db '      Life Runner Game $' ;string to print the starting text
 spoint db 'Your life starts at the pink point $'    ;string to print the starting text
-epoint db 'You must reach the red point. $'   ;string to print the starting text
+epoint db 'You must reach the black point. $'   ;string to print the starting text
 press db 'Press Any Key to Continue $'  ;string to print the starting text
 ulabel db '^ $'
 maze db ' Avoid Enemies $'
