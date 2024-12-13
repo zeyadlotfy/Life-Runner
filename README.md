@@ -48,6 +48,7 @@ ld -m elf_i386 -o life_runner Life_Runner.o
 
 ## Authors
 [Zeyad Lotfy](https://github.com/zeyadlotfy)
+<br/>
 [Zyad Ashraf](https://github.com/Z-Ash0)
 
 
