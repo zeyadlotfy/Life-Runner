@@ -53,4 +53,5 @@ ld -m elf_i386 -o life_runner Life_Runner.o
 - [Any credits or inspirations]
 
 ## Screenshot
-[If possible, include a screenshot or ASCII art representation of the game]
+
+  <img src="./screens/screen.png" alt="screen1" />
