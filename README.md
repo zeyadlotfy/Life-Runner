@@ -4,9 +4,9 @@
 "Life Runner" is an exciting maze escape game developed in assembly language, offering fast-paced, low-level gaming experience with efficient gameplay mechanics.
 
 ## Repository Contents
-- `Life_Runner.asm`: Main assembly source code for the game
-- `colors_ascii.txt`: ASCII art and color configuration file
-- `interrupts.pdf`: Detailed documentation on interrupt handling
+- `Life Runner.asm`: Main assembly source code for the game
+- `colors.jpg`: ASCII art and color configuration file
+- `i8086_and_DOS_interrupts.pdf`: Detailed documentation on interrupt handling
 
 ## Game Description
 Navigate through challenging mazes, dodge enemies, and reach the endpoint to win! The game is designed for high-performance, low-overhead gaming using assembly language.
@@ -45,15 +45,6 @@ ld -m elf_i386 -o life_runner Life_Runner.o
 2. Navigate through the maze
 3. Avoid enemies
 4. Reach the endpoint to win
-
-## Dependencies
-- [List any required libraries or system dependencies]
-
-## Contributing
-Contributions are welcome! Please read the contributing guidelines before submitting a pull request.
-
-## License
-[Specify license - e.g., MIT, GPL]
 
 ## Authors
 - [Your Name/Username]
