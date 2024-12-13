@@ -47,7 +47,9 @@ ld -m elf_i386 -o life_runner Life_Runner.o
 4. Reach the endpoint to win
 
 ## Authors
-- [Zeyad Lotfy/zeyadlotfy]
+[Zeyad Lotfy](https://github.com/zeyadlotfy)
+[Zyad Ashraf](https://github.com/Z-Ash0)
+
 
 ## Screenshot
 
