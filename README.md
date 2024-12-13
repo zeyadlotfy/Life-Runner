@@ -37,7 +37,7 @@ Navigate through challenging mazes, dodge enemies, and reach the endpoint to win
 4. Reach the endpoint to win
 
 ## Authors
-[Zeyad Lotfy](https://github.com/zeyadlotfy)
+[Zeyad Lotfy](https://zeyadlotfy.vercel.app)
 <br/>
 [Zyad Ashraf](https://github.com/Z-Ash0)
 
