@@ -49,9 +49,6 @@ ld -m elf_i386 -o life_runner Life_Runner.o
 ## Authors
 - [Your Name/Username]
 
-## Acknowledgments
-- [Any credits or inspirations]
-
 ## Screenshot
 
   <img src="https://github.com/zeyadlotfy/Life-Runner/blob/main/screen_Game/screen1.png" align="center" alt="screen1" />
