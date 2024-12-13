@@ -54,4 +54,4 @@ ld -m elf_i386 -o life_runner Life_Runner.o
 
 ## Screenshot
 
-  <img src="./screens/screen.png" alt="screen1" />
+  <img src="./screen_Game/screen.png" alt="screen1" />
