@@ -19,7 +19,6 @@ Navigate through challenging mazes, dodge enemies, and reach the endpoint to win
 
 ## Technical Specifications
 - **Language**: Assembly
-- **Platform**: [Specify target platform/architecture]
 - **Compilation**: [Specify assembly compiler/assembler]
 
 ## Setup and Installation
