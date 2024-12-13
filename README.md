@@ -1,4 +1,4 @@
-# Life Runner 🏃‍♂️🕹️
+# Life Runner 👾🕹️
 
 ## Project Overview
 "Life Runner" is an exciting maze escape game developed in assembly language, offering fast-paced, low-level gaming experience with efficient gameplay mechanics.
@@ -19,7 +19,6 @@ Navigate through challenging mazes, dodge enemies, and reach the endpoint to win
 
 ## Technical Specifications
 - **Language**: Assembly
-- **Compilation**: [Specify assembly compiler/assembler]
 
 ## Setup and Installation
 1. Clone the repository
@@ -29,9 +28,7 @@ Navigate through challenging mazes, dodge enemies, and reach the endpoint to win
 
 
 ## Controls
-- [Specify game controls]
-- [Movement keys]
-- [Action keys]
+- Arrow Keys
 
 ## Gameplay Instructions
 1. Start the game
